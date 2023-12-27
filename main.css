@@ -56,7 +56,6 @@ header {
 }
 .contact img {
     padding-top: 50px;
-    padding-left: 20px;
 }
 
 .social-links a,
@@ -81,8 +80,8 @@ footer {
     padding: 10px 0 30px;
 }
 
-@media screen and (max-width: 600px) {
-    .hero {
-        padding: 30px 20px;
+@media screen and (max-width: 500px) {
+    .logo {
+        width: 250px;
     }
 }
